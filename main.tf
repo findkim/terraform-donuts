@@ -17,9 +17,9 @@ output "flavors" {
 
 output "orders" {
   value = {
-    Justin = "Maple Bacon"
-    Piper = "Glazed w/ Rainbow Sprinkles"
-    Marissa = "Blueberry"
-    Beth = null
+    Dallas = "Maple Bacon"
+    Gabi = "Glazed w/ Rainbow Sprinkles"
+    Sage = "Blueberry"
+    Paris = null
   }
 }
