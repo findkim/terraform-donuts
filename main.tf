@@ -11,7 +11,8 @@ output "flavors" {
     "Maple Bacon",
     "Old-Fashioned",
     "Glazed w/ Rainbow Sprinkles",
-    "Blueberry Glaze"
+    "Blueberry Glaze",
+    "Chocolate"
   ]
 }
 
